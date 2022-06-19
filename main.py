@@ -13,7 +13,6 @@ class Main:
               '3. Select the entries to export\n'
               '4. Add a new entry\n'
               '5. Delete an entry\n')
-        # time.sleep(5)
         try:
             action = int(input('Press the corresponding key: '))
             if action == 1:
