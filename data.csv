@@ -1,0 +1,31 @@
+id;Name;Surname;Date of birth;Age;City;Programming language;Development experience;Qualification level
+524316;John;Levi;24.11.1995;25;New York;C++;4;Middle
+413625;Monica;Wilson;08.04.1973;47;Detroit;Java;5;Senior
+342516;Peter;Williams;05.08.1973;47;Boston;Ruby;2;Junior
+314652;Paul;Reily;03.09.2002;18;Chicago;Haskell;10;Senior
+524631;Jack;Dawson;29.11.2000;20;Atlanta;JavaScript;3;Junior
+634152;James;Mitchell;15.10.1997;23;Denver;Kotlin;3;Middle
+541362;Kate;Tailor;20.08.1986;34;Houston;Golang;2;Junior
+512463;Mark;Healey;14.06.1988;32;Miami;Python;7;Senior
+132564;Sienna;Atkinson;13.03.1999;21;Tampa;C++;5;Middle
+236514;Lynn;Foster;26.02.1975;45;Las Vegas;Python;8;Senior
+253641;Pamela;Haim;01.01.1994;26;New York;Kotlin;9;Senior
+341256;Robert;Vanzant;09.05.1980;40;Los Angeles;C++;4;Junior
+452316;Paula;Clayton;12.09.1975;45;Dallas;Java;11;Senior
+165243;Sophie;Rivera;22.12.1977;43;Omaha;Java;2;Junior
+421563;Bob;Perry;27.10.1997;23;Washington;Python;8;Senior
+261534;Sara;Mitchell;31.10.1998;22;Denver;Ruby;1;Junior
+635421;Bridgette;Svensson;09.10.1987;33;Miami;SQL;2;Middle
+524136;Phill;Stone;18.11.1988;32;Seattle;Golang;3;Middle
+256143;John;Henderson;05.02.1999;21;New York;Java;3;Junior
+134652;Andy;Renner;16.04.1979;41;Boston;PHP;2;Junior
+524163;John;Michaels;17.07.2002;18;San Diego;C++;3;Junior
+356124;Geena;Russel;29.04.1980;40;Los Angeles;Java;5;Senior
+364512;Sophie;Katano;20.03.1976;44;Detroit;Haskell;6;Middle
+465132;Nick;Hudson;05.05.1999;21;Chicago;Python;4;Middle
+245163;Angela;Williams;30.11.1981;39;Pittsburgh;JavaScript;9;Senior
+164532;Valerie;Wise;27.05.1978;42;San Francisco;Java;6;Middle
+645132;Rick;Norton;09.03.1983;37;Washington;Kotlin;8;Senior
+216354;Bob;Presley;03.01.1982;38;New York;C++;4;Middle
+512643;Richard;Tailor;30.07.1996;24;Houston;Golang;5;Middle
+519319;Bill;Conti;02.04.1992;30;Memphis;C++;4;Middle
