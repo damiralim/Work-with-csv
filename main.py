@@ -23,8 +23,6 @@ class Main:
                 self.entries_exp()
             if action == 4:
                 self.add_entry()
-            if action == 5:
-                self.del_entry()
         except ValueError:
             print('Invalid action specified! Return to the main menu.')
             Main.__init__(self)
