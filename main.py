@@ -4,7 +4,7 @@ from random import randint
 class Main:
     __headings = ['Id', 'Name', 'Surname', 'Date of birth', 'Age', 'City',
                   'Programming language', 'Development experience',
-                  'Qualification level']
+                  'Qualification level', 'desired_salary']
 
     def __init__(self):
         print('Select the desired action?:\n'
