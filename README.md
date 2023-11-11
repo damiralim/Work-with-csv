@@ -5,3 +5,4 @@ In this small pet project, I manipulate a table in a csv file, the following dat
 2. Select the columns to export
 3. Select the entries to export
 4. Add a new entry
+5. Delete entry
